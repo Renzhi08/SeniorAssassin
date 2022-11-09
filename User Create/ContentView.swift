@@ -15,10 +15,8 @@ struct ContentView: View {
                                 User(name: "Kyle", userName: "KyleBac111")]
     
     var body: some View {
-        
-        
-        
-        
+        Text("Hello, world!")
+            .padding()
         
         
     }
